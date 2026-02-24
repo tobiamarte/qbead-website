@@ -38,7 +38,7 @@ description: Play with the Qbead and rediscover a quantum protocol by yourself! 
 
 ## The game
 
-Goal: Get **only one LED** to light up
+Goal: Get **only one LED** to light up, and keep the led from spreading!
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
 
